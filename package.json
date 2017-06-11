@@ -1,0 +1,25 @@
+{
+  "name": "kanbanize-api-reports",
+  "version": "0.0.1",
+  "description": "A Typescript Kanbanize API wrapper for generating reports",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:torbinsky/kanbanize-api-reports"
+  },
+  "keywords": [
+    "kanbanize",
+    "typescript",
+    "report",
+    "api"
+  ],
+  "author": "Torben Werner",
+  "license": "ISC",
+  "devDependencies": {
+    "typed-rest-client": "^0.10.0",
+    "typescript": "^2.3.4"
+  }
+}
